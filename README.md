@@ -24,6 +24,7 @@ I actively participate in technical competitions, hackathons, and professional e
 Through these experiences, I’ve developed strong soft skills, particularly in team collaboration, leadership, communication, adaptability,resilience and a continuous drive to learn and grow.
 
 I am currently seeking opportunities as a:
+- Backend Developer
 - Software Engineer / SDE
 - Entry-level Developer
 - Data Engineering/ Data Analytics
